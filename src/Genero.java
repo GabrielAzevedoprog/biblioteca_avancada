@@ -1,0 +1,3 @@
+public enum Genero {
+    FICCAO, ROMANCE, AVENTURA, TERROR, FANTASIA, SCI_FI, HISTORIA;
+}
